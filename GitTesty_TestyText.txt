@@ -1,3 +1,12 @@
 This is git.
 
 Currently, this is a file in git.
+
+
+As you can see, I'm writing a highly experimental bunch of changes. look at all these changes!
+
+You will also notice there is a new file in the repo.
+
+Nice.
+
+Peace out y'all
